@@ -69,3 +69,11 @@ textarea {
   font-size: 20px;
   transition: all 0.3s ease-in-out;
 }
+
+.col-md-1 {
+  background-color: red;
+}
+
+#time {
+  background-color: blue;
+}
