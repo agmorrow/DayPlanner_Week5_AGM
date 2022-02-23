@@ -38,8 +38,10 @@ textarea {
 
 .hour {
   background-color: #ffffff;
-  color: #000000;
+  color: black;
   border-top: 1px dashed #000000;
+  padding-top: 33px;
+  padding-left: 44px;
 }
 
 .past {
